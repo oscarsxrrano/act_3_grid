@@ -1,0 +1,16 @@
+body {
+    background-color: antiquewhite;
+}
+
+.grid-container {
+    display: grid;
+    height: 400px;
+    align-content: center;
+}
+
+
+.item-1 {
+    background-color: greenyellow;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
