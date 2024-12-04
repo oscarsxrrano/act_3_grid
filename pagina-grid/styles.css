@@ -21,7 +21,7 @@ body {
 
 .header {
     grid-area: 1/1/2/6;
-    background-color: rgb(169, 252, 46);
+    background-color: rgb(45, 122, 25);
 }
 
 .sidebar {
@@ -30,7 +30,7 @@ body {
 }
 
 .top-bar {
-    background-color: rgb(211, 72, 211);
+    background-color: rgb(212, 26, 212);
     grid-area: 2/2/3/6;
 }
 
@@ -54,12 +54,12 @@ body {
 }
 
 .item {
-    background-color: rgb(28, 11, 177);
+    background-color: rgb(28, 56, 212);
     border: 1px solid black;
 }
 
 .footer {
-    background-color: rgb(169, 252, 46);
+    background-color: rgb(45, 122, 25);
     grid-area: 6/1/6/6;
     border: 1px solid black;
 }
